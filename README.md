@@ -2,13 +2,14 @@
 <br>
 Hello, i am Dinis and i'm currently studying at Lusofona and used to study at AESJE.
 I like to develop games and such. <br>
+<br>
 Right now, my skills are: <br>
 -C# <br>
 -Python <br>
 -SQL <br>
 -Visual Basic <br>
 -Html, CSS and a bit of PHP <br>
-
+<br>
 I would like to learn in the future: <br>
 -C++ <br>
 -Rust <br>
