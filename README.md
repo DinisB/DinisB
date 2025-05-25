@@ -1,6 +1,6 @@
 ## DinisB
 <br>
-Hello, i am Dinis and i'm currently studying at Lusofona and used to study at AESJE.
+Hello, i am Dinis and i'm currently studying at Lusofona.
 I like to develop games and such. <br>
 <br>
 Right now, my skills are: <br>
@@ -16,7 +16,6 @@ I would like to learn in the future: <br>
 <br>
 
 Most of the projects in here are open source, feel free to use them.
-[This one is my favorite!](https://github.com/DinisB/CafeCats)
 <br>
 ![Edward and Alphonse](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1btmx2gnBT_vysuipUVS8rCd0DgomzsDxXYb-tYc5-pGCqJikwrNF5ijW-0aOE4nPcBkIxAEUURVx_hpcJ71a9HWpNu7H5F_4u1N5ZJNxHZrrofkFD33dRrypBdAWcZGqb0nzjA14mvbo/s1600/Fullmetal+Alchemist+16.gif) <br>
 ![Misaki](https://media1.tenor.com/m/xBfIUzRBC1AAAAAC/welcome-to-the-nhk-misaki.gif)
