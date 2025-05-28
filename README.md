@@ -1,6 +1,6 @@
 ## DinisB
 <br>
-Hello, i am Dinis and i'm currently studying at Lusofona.
+Hello, i am Dinis Barroso and i'm currently studying at Lusofona.
 I like to develop games and such. <br>
 <br>
 Right now, my skills are: <br>
@@ -15,7 +15,7 @@ I would like to learn in the future: <br>
 -Rust <br>
 <br>
 
-Most of the projects in here are open source, feel free to use them.
+Most of the projects in here are open source unless stated otherwise, so, feel free to use them.
 <br>
 ![Edward and Alphonse](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1btmx2gnBT_vysuipUVS8rCd0DgomzsDxXYb-tYc5-pGCqJikwrNF5ijW-0aOE4nPcBkIxAEUURVx_hpcJ71a9HWpNu7H5F_4u1N5ZJNxHZrrofkFD33dRrypBdAWcZGqb0nzjA14mvbo/s1600/Fullmetal+Alchemist+16.gif) <br>
 ![Misaki](https://media1.tenor.com/m/xBfIUzRBC1AAAAAC/welcome-to-the-nhk-misaki.gif)
