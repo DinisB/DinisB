@@ -1,6 +1,6 @@
 ## DinisB
 <br>
-Hello, i'm Dinis Barroso and i'm currently studying at Lusofona.
+Hello, i'm Dinis and i'm currently studying at Lusofona.
 I like to develop games and such. <br>
 <br>
 Right now, my skills are: <br>
