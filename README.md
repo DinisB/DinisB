@@ -12,12 +12,12 @@ Right now, my skills are: <br>
 <br>
 I would like to learn in the future: <br>
 -C++ <br>
--Rust <br>
+-Lua (Roblox) <br>
+-Java <br>
 <br>
 
 Most of the projects here are open source unless stated otherwise, so feel free to use them.
 <br>
-![Edward and Alphonse](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1btmx2gnBT_vysuipUVS8rCd0DgomzsDxXYb-tYc5-pGCqJikwrNF5ijW-0aOE4nPcBkIxAEUURVx_hpcJ71a9HWpNu7H5F_4u1N5ZJNxHZrrofkFD33dRrypBdAWcZGqb0nzjA14mvbo/s1600/Fullmetal+Alchemist+16.gif) <br>
 ![Misaki](https://media1.tenor.com/m/xBfIUzRBC1AAAAAC/welcome-to-the-nhk-misaki.gif)
 <!--
 **DinisB/DinisB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
