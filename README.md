@@ -1,7 +1,6 @@
-## DinisB
+## Dinis
 <br>
-Hello, i'm Dinis and i'm currently studying at Lusofona.
-I like to develop games and such. <br>
+Hello, i'm Dinis, i like to develop games and stuff. <br>
 <br>
 Right now, my skills are: <br>
 -C# <br>
@@ -9,12 +8,13 @@ Right now, my skills are: <br>
 -SQL <br>
 -Html, CSS and a bit of PHP and JavaScript <br>
 <br>
-I would like to learn in the future: <br>
+Skills i would like to learn in the future: <br>
 -C or C++ <br>
 -Japanese <br>
-<br>
+-To Draw <br>
 
 Most of the projects here are open source unless stated otherwise, so feel free to use them.
+(Not that you would learn from it xD)
 <br>
 ![Misaki](https://media1.tenor.com/m/xBfIUzRBC1AAAAAC/welcome-to-the-nhk-misaki.gif)
 <!--
