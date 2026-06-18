@@ -7,13 +7,11 @@ Right now, my skills are: <br>
 -C# <br>
 -Python <br>
 -SQL <br>
--Visual Basic <br>
--Html, CSS and a bit of PHP <br>
+-Html, CSS and a bit of PHP and JavaScript <br>
 <br>
 I would like to learn in the future: <br>
--C++ <br>
--Lua (Roblox) <br>
--Java <br>
+-C or C++ <br>
+-Japanese <br>
 <br>
 
 Most of the projects here are open source unless stated otherwise, so feel free to use them.
