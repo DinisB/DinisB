@@ -10,7 +10,6 @@ Right now, my skills are: <br>
 <br>
 Skills i would like to learn in the future: <br>
 -C or C++ <br>
--Japanese <br>
 -To Draw <br>
 
 <br>
