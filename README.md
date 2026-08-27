@@ -8,6 +8,9 @@ Right now, my skills are: <br>
 -SQL <br>
 -Html, CSS and a bit of PHP and JavaScript <br>
 <br>
+Learning right now: <br>
+-Ruby (RPG Maker VX Ace) <br>
+<br>
 Skills i would like to learn in the future: <br>
 -C or C++ <br>
 -To Draw <br>
